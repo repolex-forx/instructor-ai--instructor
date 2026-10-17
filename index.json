@@ -1,0 +1,11 @@
+{
+  "org": "instructor-ai",
+  "repo": "instructor",
+  "versions": [
+    {
+      "commit": "035c77b7b04dbbf70ae4457eb102038907b5a2a4",
+      "tag": "",
+      "parsed_at": "2026-10-17T08:44:48.560949+00:00"
+    }
+  ]
+}
